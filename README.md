@@ -4,7 +4,7 @@ Welcome to my GitHub Rrofile! I'm Reuben, a 4th year BS Information Technology s
 
 ## My Explored Programming Languages
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px; border-radius:50%;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 50%;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 50%;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="border-radius: 50%;">
